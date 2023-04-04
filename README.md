@@ -4,4 +4,4 @@ This Github repository showcases a collection of personal coding projects that I
 
 Each project comes with a detailed description of its purpose, features, and implementation and some of them come with a requirements.txt file for dependencies. Whether you're a recruiter, a potential employer, or a fellow developer, I hope you'll find these projects interesting and an informative way to showcase some of the kinds of projects I'm comfortable working on.
 
-Most of these projects were started during the Master's Degree in Data Science and Advanced Analytics as a team with my colleagues Gustavo Brito and Miguel Mateus, who are also owners of this repo.![image](https://user-images.githubusercontent.com/44229401/229934678-0614bcb3-84de-4f04-a059-61d4ea89a6e7.png)
+Most of these projects were started during the Master's Degree in Data Science and Advanced Analytics as a team with my colleagues Gustavo Brito and Miguel Mateus, who are also owners of this repo.
